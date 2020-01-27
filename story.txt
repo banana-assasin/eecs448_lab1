@@ -1,2 +1,6 @@
 I love writing stories. Stories are super cool.
+<<<<<<< HEAD
 Armadillo story.
+=======
+Story story elephant story.
+>>>>>>> experiment
